@@ -347,9 +347,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Your Name
 
-- YouTube: [Your Channel](https://youtube.com/yourchannel)
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: <your.email@example.com>
+- YouTube: [Coding Anatomy](https://www.youtube.com/@codinganatomy)
+- GitHub: [@codinganatomy](https://github.com/codinganatomy)
+- Email: <codinganatomy@gmail.com>
 
 ## 🙏 Acknowledgments
 
